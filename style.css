@@ -1,0 +1,19 @@
+
+
+.btn{
+  position:absolute;
+  top:50%;
+  left:50%;
+  padding:25px;
+  background-color:blue
+ 
+}
+
+body{
+  height:100%;
+  width:100%;
+  background-color:black;
+}
+© 2022 GitHub, Inc.
+Terms
+Privacy
